@@ -12,6 +12,8 @@ members:
   - Tyler
   - Kim
   - reset
+  - Gamora
+  - Nebula
   
   fetch: this
   new: branch
